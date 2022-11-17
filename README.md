@@ -31,3 +31,12 @@ The dataset contains one table structured as follow:
     - **S**: less than 50 employees (small)
     - **M**: 50 to 250 employees (medium)
     - **L**: more than 250 employees (large)
+
+#### Files
+| File | Content |
+| ---- | ------- |
+| [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) | Original csv file containing dataset of salaries in AI and DATA jobs |
+| [salaries_usable.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries_usable.csv) | Copied version of [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) for safety |
+| [project.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/project.ipynb) | Workbook for the project |
+| [cleaned_salaries_usable.ipynb]() | Data converted to csv after cleaning section |
+| [rough.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/rough.ipynb) | A notebook for rough work and testing |
