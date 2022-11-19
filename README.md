@@ -1,6 +1,16 @@
 # AI-ML_Salaries
 #### A Data Science portfolio project: Data Science job salaries from 2020 to 2022
 
+#### Files
+| File | Content |
+| ---- | ------- |
+| [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) | Original csv file containing dataset of salaries in AI and DATA jobs |
+| [salaries_usable.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries_usable.csv) | Copied version of [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) for safety |
+| [project.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/project.ipynb) | Workbook for the project |
+| [cleaned_salaries_usable.ipynb]() | Data converted to csv after cleaning section |
+| [rough.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/rough.ipynb) | A notebook for rough work and testing |
+
+
 ##### About Dataset
 The salaries are from [ai-jobs](https://salaries.ai-jobs.net/download/). Ai-jobs collects salary information anonymously from professionals all over the world in the AI/ML and Big Data space and makes it publicly available for anyone to use, share and play around with. The data is being updated regularly with new data coming in, usually on a weekly basis.
 The primary goal is to have data that can provide better guidance in regards to what's being paid globally. So newbies, experienced pros, hiring managers, recruiters and also startup founders or people wanting to make a career switch can make better informed decisions.
@@ -31,12 +41,3 @@ The dataset contains one table structured as follow:
     - **S**: less than 50 employees (small)
     - **M**: 50 to 250 employees (medium)
     - **L**: more than 250 employees (large)
-
-#### Files
-| File | Content |
-| ---- | ------- |
-| [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) | Original csv file containing dataset of salaries in AI and DATA jobs |
-| [salaries_usable.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries_usable.csv) | Copied version of [salaries.csv](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/salaries.csv) for safety |
-| [project.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/project.ipynb) | Workbook for the project |
-| [cleaned_salaries_usable.ipynb]() | Data converted to csv after cleaning section |
-| [rough.ipynb](https://github.com/Keshtech2002/AI-ML_Salaries/blob/main/rough.ipynb) | A notebook for rough work and testing |
